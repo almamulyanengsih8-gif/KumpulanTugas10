@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(6, 13, 44);
+}
+
+.title{
+    font-size: 64px;
+}
+
+#sub-title{
+    font-size: 24px;
+}
+
+#heading{
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#heading{
+    color: aqua;
+}
+
+.title{
+    color: white;
+}
+
+#sub-title{
+    color: darkgrey;
+}
+
+button{
+    padding: 20px;
+    border-radius: 10px;
+    border: 5;
+    background-color: darkslateblue;
+    color: azure;
+}
